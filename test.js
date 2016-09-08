@@ -98,57 +98,57 @@ $(document).ready(function() {
 	$.sticky('<b><img src="http://pokecoinsfree.com/ais/France-Flag.png"/>DavidGilbert received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 541080 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 870990</b>');
 	
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Canada-Flag-icon.png"/>DoreneBeaudry19 received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 501220 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 9800041</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Canada-Flag-icon.png"/>DoreneBeaudry19 download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 501220 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 9800041</b>');
 	}
 	setInterval(callnotification, 5000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Belgium-Flag-icon.png"/> Momkiller received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 684870 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 451522</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Belgium-Flag-icon.png"/> Momkiller download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 684870 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 451522</b>');
 	}
 	setInterval(callnotification, 7000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/00-cctld-au-icon.png"/>Duad1945 received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80000 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80000</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/00-cctld-au-icon.png"/>Duad1945 download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80000 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80000</b>');
 	}
 	setInterval(callnotification, 8000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Australia-Flag-icon.png"/> RoyaleBourassa  received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 40040 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 40040</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Australia-Flag-icon.png"/> RoyaleBourassa  download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 40040 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 40040</b>');
 	}
 	setInterval(callnotification, 9000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>Dragonbldz received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 98898 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 98898</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>Dragonbldz download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 98898 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 98898</b>');
 	}
 	setInterval(callnotification, 11000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Denmark-Flag-icon.png"/>KonstBR received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 99090 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 99090</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Denmark-Flag-icon.png"/>KonstBR download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 99090 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 99090</b>');
 	}
 	setInterval(callnotification, 13000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Argentina-Flag-icon.png"/>IjTommy4 received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 58000 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 58000</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Argentina-Flag-icon.png"/>IjTommy4 download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 58000 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 58000</b>');
 	}
 	setInterval(callnotification, 15000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/France-Flag.png"/>LanceClash22 received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80880 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80880</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/France-Flag.png"/>LanceClash22 download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80880 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 80880</b>');
 	}
 	setInterval(callnotification, 16000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>MxBunnyZ received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 758421 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 835588</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>MxBunnyZ download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 758421 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 835588</b>');
 	}
 	setInterval(callnotification, 18000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>GamerJohn201 received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 597441 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 780000</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>GamerJohn201 download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 597441 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 780000</b>');
 	}
 	setInterval(callnotification, 19000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>TheKingofCOC2014 received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 404150 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 854125</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/United-States-Flag-icon.png"/>TheKingofCOC2014 download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 404150 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 854125</b>');
 	}
 	setInterval(callnotification, 19000);
 
@@ -163,7 +163,7 @@ $(document).ready(function() {
 	setInterval(callnotification, 22000);
 
 	var callnotification = function() {
-		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Netherlands-Flag-icon.png"/> Kidsrocxy  received <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 52355 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 55000</b>');
+		$.sticky('<b><img src="http://pokecoinsfree.com/ais/Netherlands-Flag-icon.png"/> Kidsrocxy  download <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 52355 <img src="http://pokecoinsfree.com/src/pokecoins.png" width="15" height="15"/> - 55000</b>');
 	}
 	setInterval(callnotification, 24000);
 
